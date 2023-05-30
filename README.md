@@ -22,6 +22,6 @@ Again we can see in this graph the predominance of deaths in Uttar Pradesh
 In this first image we can see the percentage of fatal accidents. In accidents with victims greater than 10k. Punjab is most % of accidents-death
 
 ![20k](https://github.com/JuanCruzEmmanuel/JuanCruzEmmanuel-India-Road-Accidents-from-2018-to-2020/assets/89812242/9deae0d2-530b-47b2-8403-df6e62454b1e)
-In this first image we can see the percentage of fatal accidents. In accidents with victims greater than 20k. Bihar is most %.
+And in this image we can see the percentage of accidents with victims greater than 20k. Bihar is most %.
 
 The city with most % is Arunachal Pradesh with a % greater than 80, but the total accidents and death is less than 200.
